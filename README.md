@@ -1,7 +1,11 @@
 Goal:
-  - Add all music in a specific folder into playlist in Windows Media Player with a single run.
+  - Add all music in a specific folder into playlist in Windows Media Player.
 
 Step by step:
-  - Step 1: Change your playlist name in "playlist_name" (Ex: "Day6.m3u8")
-  - Step 2: Change your music folder path which you want to add in that playlist in "folder_path" (Ex: "C://Users//longn//Music//Day6")
-  - Step 3: Run the code
+  - Step 1: Enter your playlist name.
+  - Step 2: Enter your music folder which have songs and you want to create playlist. (Ex: D:\Downloads\Day6)
+
+What this file do?:
+  - Creating a music folder in Music C disk with your playlist name you add before. (if it not exists)
+  - Copying songs into that folder.
+  - Creating playlist.
