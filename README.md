@@ -8,3 +8,5 @@ Step by step:
 What this file do?:
   - Save your songs in "Music" folder in C disk.
   - Create playlist.
+
+https://github.com/user-attachments/assets/41794227-ba9a-47c9-b811-3fa685d23ced
