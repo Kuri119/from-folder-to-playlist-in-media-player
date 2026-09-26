@@ -39,6 +39,9 @@ if "C://Users//longn//Music//" not in folder_path:
         
 print()
 
+# Create playlist folder if that not exists
+os.makedirs(os.path.dirname(playlist_path), exist_ok=True)
+
 # Writing playlist file
 if os.path.isfile(playlist_path):
     count = 0
